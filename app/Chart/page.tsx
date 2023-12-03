@@ -39,7 +39,7 @@ export default function ChartAnalysis() {
             {/* Chart Analysis Content */}
             <h2 className="text-3xl font-semibold mb-3">Technical Analysis Overview</h2>
             <p className="mb-6">
-            The chart shows a clear line where Apple's stock seems to stop dropping and starts to pick up again. This is the support line, and it's like a safety net; every time the stock hits this line, it finds enough buyers to start rising again. This repeated bounce back from the support line tells us that investors feel pretty good about buying at this level. If everything else in the market stays steady and people keep believing in Apple's value, this line could help the stock's price go up tomorrow bomboclatttttttt me getting rich and buy escorts. Also, notice the last green bar at the bottom of the chart going up, this means hugeee volume which is really good as well.
+            The chart shows a clear line where Apple&apos;s stock seems to stop dropping and starts to pick up again. This is the support line, and it&apos;s like a safety net; every time the stock hits this line, it finds enough buyers to start rising again. This repeated bounce back from the support line tells us that investors feel pretty good about buying at this level. If everything else in the market stays steady and people keep believing in Apple&apos;s value, this line could help the stock&apos;s price go up tomorrow bomboclatttttttt me getting rich and buy escorts. Also, notice the last green bar at the bottom of the chart going up, this means hugeee volume which is really good as well.
             </p>
 
             {/* More Content */}

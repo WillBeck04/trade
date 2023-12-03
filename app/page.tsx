@@ -46,26 +46,26 @@ export default function AppleStockAnalysis() {
           <section className="mb-10">
             <h2 className="text-3xl font-semibold mb-3">Introduction</h2>
             <p className="mb-6">
-            Goldman Sachs is going back to basics, concentrating on areas where they've always been strong like trading and helping companies manage their money. They're stepping away from their big deal with Apple.
+            Goldman Sachs is going back to basics, concentrating on areas where they&apos;ve always been strong like trading and helping companies manage their money. They&apos;re stepping away from their big deal with Apple.
             </p>
 
             <h2 className="text-3xl font-semibold mb-3">Analysis</h2>
             <p className="mb-6">
-            This move may indicate that Apple is choosing to concentrate on its most profitable and successful areas, like its core technology products and services, which have historically driven its growth. Ending the partnership could allow Apple to reallocate resources and strategic focus towards these main revenue-generating segments. This could also represent a strategic shift or a pause in Apple's broader financial services ambitions, suggesting a more cautious approach as it reassesses its position in this sector.
+            This move may indicate that Apple is choosing to concentrate on its most profitable and successful areas, like its core technology products and services, which have historically driven its growth. Ending the partnership could allow Apple to reallocate resources and strategic focus towards these main revenue-generating segments. This could also represent a strategic shift or a pause in Apple&apos;s broader financial services ambitions, suggesting a more cautious approach as it reassesses its position in this sector.
             </p>
 
             <h2 className="text-3xl font-semibold mb-3">Why Apple Stock May Rise</h2>
             <ul className="list-disc list-inside mb-6">
-              <li><strong>Refocus on High-Margin Products:</strong> Apple's hardware products, like the iPhone and Mac, have higher profit margins than financial services. A refocus on these areas could boost profitability.</li>
-              <li><strong>Innovative Pipeline:</strong> Apple's commitment to innovation often leads to new product categories and service expansions, driving revenue growth.</li>
-              <li><strong>Brand Loyalty and Ecosystem:</strong> Apple's robust ecosystem locks in customers, leading to repeat sales and a steady revenue stream from its services division.</li>
-              <li><strong>Financial Realignment:</strong> Exiting less profitable or strategically divergent ventures like the Goldman Sachs partnership could improve Apple's financials over the long term.</li>
+              <li><strong>Refocus on High-Margin Products:</strong> Apple&apos;s hardware products, like the iPhone and Mac, have higher profit margins than financial services. A refocus on these areas could boost profitability.</li>
+              <li><strong>Innovative Pipeline:</strong> Apple&apos;s commitment to innovation often leads to new product categories and service expansions, driving revenue growth.</li>
+              <li><strong>Brand Loyalty and Ecosystem:</strong> Apple&apos;s robust ecosystem locks in customers, leading to repeat sales and a steady revenue stream from its services division.</li>
+              <li><strong>Financial Realignment:</strong> Exiting less profitable or strategically divergent ventures like the Goldman Sachs partnership could improve Apple&apos;s financials over the long term.</li>
             </ul>
             
 
             <h2 className="text-3xl font-semibold mb-3">Conclusion</h2>
             <p className="mb-6">
-            Apple's potential decision to end its credit card agreement with Goldman Sachs could serve as a strategic advantage, reinforcing its commitment to core business areas where it has established market leadership. This reorientation towards its foundational products and innovative services like the iPhone, Mac, etc, could streamline Apple's focus and optimize profits. 
+            Apple&apos;s potential decision to end its credit card agreement with Goldman Sachs could serve as a strategic advantage, reinforcing its commitment to core business areas where it has established market leadership. This reorientation towards its foundational products and innovative services like the iPhone, Mac, etc, could streamline Apple&apos;s focus and optimize profits. 
             </p>
             
 
